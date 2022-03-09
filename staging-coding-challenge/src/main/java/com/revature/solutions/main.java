@@ -41,6 +41,14 @@ public class main {
 		 * 
 		 */
 		
+		
+		// FIBONACCI SOLUTION
+		
+		int a = 1;
+		int b = 2;
+		int sum = fibbonacci.fibbonacciSequence(a, b);
+		System.out.print(sum);
+		
 	}
 
 }
