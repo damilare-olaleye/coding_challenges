@@ -8,7 +8,7 @@ public class fibbonacci {
 		int sum = 0;
 		
 		while (a <= Integer.MAX_VALUE && b <= Integer.MAX_VALUE) {
-			if (b % 2 == 00) {
+			if (b % 2 == 0) {
 				sum += b;
 			}
 			temp = a;
